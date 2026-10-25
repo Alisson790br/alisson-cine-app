@@ -1,6 +1,6 @@
 {
-  "versionCode": 128,
-  "versionName": "1.28",
+  "versionCode": 129,
+  "versionName": "1.29",
   "url": "https://raw.githubusercontent.com/Alisson790br/alisson-cine-app/main/AlissonCine.apk",
-  "notes": "Corrige o erro ao abrir arquivos grandes do Google Drive."
+  "notes": "Se não der para continuar de onde parou, o filme recomeça do início sozinho. O aviso de erro agora mostra o motivo."
 }
