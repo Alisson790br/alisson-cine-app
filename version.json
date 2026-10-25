@@ -1,6 +1,6 @@
 {
-  "versionCode": 125,
-  "versionName": "1.25",
+  "versionCode": 126,
+  "versionName": "1.26",
   "url": "https://raw.githubusercontent.com/Alisson790br/alisson-cine-app/main/AlissonCine.apk",
-  "notes": "Prévia de cenas em miniaturas ao avançar ou voltar o filme."
+  "notes": "Perfis: crie seu usuário com nome e um bichinho. Cada perfil tem seus favoritos e o que está assistindo."
 }
