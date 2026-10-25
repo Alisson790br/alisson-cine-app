@@ -1,6 +1,6 @@
 {
-  "versionCode": 123,
-  "versionName": "1.23",
+  "versionCode": 124,
+  "versionName": "1.24",
   "url": "https://raw.githubusercontent.com/Alisson790br/alisson-cine-app/main/AlissonCine.apk",
-  "notes": "Corrige títulos antigos que continuavam aparecendo depois de mudar os arquivos no Drive. Em Ajustes agora aparece a lista de arquivos encontrados."
+  "notes": "Reconhece vídeos do Drive mesmo sem extensão no nome (ex.: sem .mkv)."
 }
