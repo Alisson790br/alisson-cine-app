@@ -1,6 +1,6 @@
 {
-  "versionCode": 129,
-  "versionName": "1.29",
+  "versionCode": 130,
+  "versionName": "1.30",
   "url": "https://raw.githubusercontent.com/Alisson790br/alisson-cine-app/main/AlissonCine.apk",
-  "notes": "Se não der para continuar de onde parou, o filme recomeça do início sozinho. O aviso de erro agora mostra o motivo."
+  "notes": "Corrige o erro ao abrir vídeos do Google Drive. Ao abrir o app, escolha o perfil."
 }
