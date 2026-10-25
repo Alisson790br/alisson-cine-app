@@ -1,6 +1,6 @@
 {
-  "versionCode": 127,
-  "versionName": "1.27",
+  "versionCode": 128,
+  "versionName": "1.28",
   "url": "https://raw.githubusercontent.com/Alisson790br/alisson-cine-app/main/AlissonCine.apk",
-  "notes": "Corrige o fechamento do app ao avançar o vídeo e faz o filme começar sozinho."
+  "notes": "Corrige o erro ao abrir arquivos grandes do Google Drive."
 }
