@@ -1,6 +1,6 @@
 {
-  "versionCode": 124,
-  "versionName": "1.24",
+  "versionCode": 125,
+  "versionName": "1.25",
   "url": "https://raw.githubusercontent.com/Alisson790br/alisson-cine-app/main/AlissonCine.apk",
-  "notes": "Reconhece vídeos do Drive mesmo sem extensão no nome (ex.: sem .mkv)."
+  "notes": "Prévia de cenas em miniaturas ao avançar ou voltar o filme."
 }
