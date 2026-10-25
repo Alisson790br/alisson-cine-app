@@ -1,6 +1,6 @@
 {
-  "versionCode": 126,
-  "versionName": "1.26",
+  "versionCode": 127,
+  "versionName": "1.27",
   "url": "https://raw.githubusercontent.com/Alisson790br/alisson-cine-app/main/AlissonCine.apk",
-  "notes": "Perfis: crie seu usuário com nome e um bichinho. Cada perfil tem seus favoritos e o que está assistindo."
+  "notes": "Corrige o fechamento do app ao avançar o vídeo e faz o filme começar sozinho."
 }
