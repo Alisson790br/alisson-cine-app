@@ -1,6 +1,6 @@
 {
-  "versionCode": 122,
-  "versionName": "1.22",
+  "versionCode": 123,
+  "versionName": "1.23",
   "url": "https://raw.githubusercontent.com/Alisson790br/alisson-cine-app/main/AlissonCine.apk",
-  "notes": "Atualização pelo próprio app, identificação de nomes melhorada e correções."
+  "notes": "Corrige títulos antigos que continuavam aparecendo depois de mudar os arquivos no Drive. Em Ajustes agora aparece a lista de arquivos encontrados."
 }
