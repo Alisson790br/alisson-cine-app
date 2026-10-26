@@ -1,6 +1,6 @@
 {
-  "versionCode": 134,
-  "versionName": "1.34",
+  "versionCode": 136,
+  "versionName": "1.36",
   "url": "https://raw.githubusercontent.com/Alisson790br/alisson-cine-app/main/AlissonCine.apk",
-  "notes": "Corrige o login no Jellyfin, remove o Google Drive e o teclado só abre quando você escolhe o campo."
+  "notes": "Botão de verificar atualização na tela inicial."
 }
