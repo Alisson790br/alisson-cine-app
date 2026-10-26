@@ -1,6 +1,6 @@
 {
-  "versionCode": 138,
-  "versionName": "1.38",
+  "versionCode": 139,
+  "versionName": "1.39",
   "url": "https://raw.githubusercontent.com/Alisson790br/alisson-cine-app/main/AlissonCine.apk",
-  "notes": "Teclado corrigido em todos os campos, Ajustes reorganizados, app mais rápido e correções."
+  "notes": "Diagnóstico de conexão com o servidor de casa: o app diz exatamente o que impede a conexão."
 }
