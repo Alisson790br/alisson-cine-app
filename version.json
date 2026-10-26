@@ -1,6 +1,6 @@
 {
-  "versionCode": 131,
-  "versionName": "1.31",
+  "versionCode": 132,
+  "versionName": "1.32",
   "url": "https://raw.githubusercontent.com/Alisson790br/alisson-cine-app/main/AlissonCine.apk",
-  "notes": "Novo: conecte o seu servidor de casa (Jellyfin) em Ajustes e assista seus vídeos sem limite, em casa e fora."
+  "notes": "Inclui a pasta Filmes Variados do Google Drive."
 }
