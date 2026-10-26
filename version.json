@@ -1,6 +1,6 @@
 {
-  "versionCode": 136,
-  "versionName": "1.36",
+  "versionCode": 137,
+  "versionName": "1.37",
   "url": "https://raw.githubusercontent.com/Alisson790br/alisson-cine-app/main/AlissonCine.apk",
-  "notes": "Botão de verificar atualização na tela inicial."
+  "notes": "O teclado abre ao escolher um campo (TV box e celular). Botão de atualização na tela inicial."
 }
