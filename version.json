@@ -1,6 +1,6 @@
 {
-  "versionCode": 139,
-  "versionName": "1.39",
+  "versionCode": 141,
+  "versionName": "1.41",
   "url": "https://raw.githubusercontent.com/Alisson790br/alisson-cine-app/main/AlissonCine.apk",
-  "notes": "Diagnóstico de conexão com o servidor de casa: o app diz exatamente o que impede a conexão."
+  "notes": "Capas do servidor de casa voltam a aparecer. Novo botão Biblioteca na tela inicial e sincronização automática: filmes novos colocados no PC aparecem sozinhos."
 }
