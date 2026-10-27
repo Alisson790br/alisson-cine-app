@@ -1,6 +1,6 @@
 {
-  "versionCode": 141,
-  "versionName": "1.41",
+  "versionCode": 142,
+  "versionName": "1.42",
   "url": "https://raw.githubusercontent.com/Alisson790br/alisson-cine-app/main/AlissonCine.apk",
-  "notes": "Capas do servidor de casa voltam a aparecer. Novo botão Biblioteca na tela inicial e sincronização automática: filmes novos colocados no PC aparecem sozinhos."
+  "notes": "Novo: Links de vídeo em Ajustes — cole o link de um vídeo (mp4, mkv, m3u8) e ele entra na biblioteca com nome e capa."
 }
